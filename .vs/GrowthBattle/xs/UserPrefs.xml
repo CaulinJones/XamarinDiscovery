@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{56792123-5EBA-4ACD-99FC-7BBC0A476EC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.GrowthBattle.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.5.4_FWVGA_API_25_xhdpi" />
+  <MonoDevelop.Ide.ItemProperties.GrowthBattle.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.22929DAF-6929-4752-AFB2-56BBFE17F83F" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GrowthBattle/MainPage.xaml.cs">
+    <Files>
+      <File FileName="GrowthBattle/MainPage.xaml.cs" Line="90" Column="50" />
+      <File FileName="GrowthBattle/App.xaml.cs" Line="31" Column="13" />
+      <File FileName="GrowthBattle/App.xaml" Line="4" Column="105" />
+      <File FileName="GrowthBattle/MainPage.xaml" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GrowthBattle" expanded="True">
+            <Node name="GrowthBattle" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="GrowthBattle.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

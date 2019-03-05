@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:GrowthBattle" x:Class="GrowthBattle.MainPage" Padding="50" >
+    <StackLayout x:Name="LoginLayout" >
+        <Label Text="Welcome to Growth Battle!" x:Name="TopTitle" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Start" />
+        <Label x:Name="ResultLabel" FontSize="Medium" LineBreakMode="WordWrap"  />
+        
+        <Label x:Name="Instructions" Text="Select two countries and see which is growing at a faster rate!" IsVisible="false" />
+        <Button Text="Login" x:Name="LoginButton" VerticalOptions="CenterAndExpand" />
+        <Picker Title="First Country" x:Name="PickerOne" IsVisible="false" />
+        <Label x:Name="Vs" Text="VS" FontSize="Large" IsVisible="false" />
+        <Picker Title="Next Country" x:Name="PickerTwo" IsVisible="false" />
+        <Button Text="Battle!" x:Name="BattleButton" VerticalOptions="Center" IsVisible="false" />
+        <Label x:Name="Results" FontSize="Large" IsVisible="false" />
+    </StackLayout>
+</ContentPage>

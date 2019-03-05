@@ -1,0 +1,12 @@
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/bin/Debug/netstandard2.0/GrowthBattle.deps.json
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/bin/Debug/netstandard2.0/GrowthBattle.dll
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/bin/Debug/netstandard2.0/GrowthBattle.pdb
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/GrowthBattle.csprojAssemblyReference.cache
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/GrowthBattle.csproj.CoreCompileInputs.cache
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/GrowthBattle.AssemblyInfoInputs.cache
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/GrowthBattle.AssemblyInfo.cs
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/GrowthBattle.dll
+/Users/caulinjones/Projects/GrowthBattle/GrowthBattle/obj/Debug/netstandard2.0/GrowthBattle.pdb
